@@ -1,0 +1,71 @@
+/* ==== FONDO GENERAL ==== */
+body {
+background-image: url('https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1600&q=80');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #222222;
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+/* ==== BLOQUE PRINCIPAL ==== */
+.main-container {
+  background-color: rgba(255, 255, 255, 0.92);
+  border-radius: 15px;
+  padding: 30px;
+  margin: 50px auto;
+  box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
+}
+
+/* ==== TÍTULO PRINCIPAL ==== */
+h1.title {
+  background-color: #1A73E8;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  border-radius: 12px;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+
+/* ==== ENCABEZADOS SECUNDARIOS ==== */
+h2, h3 {
+  color: #1A73E8;
+  border-bottom: 2px solid #1A73E8;
+  padding-bottom: 5px;
+  margin-top: 25px;
+}
+
+/* ==== TABLA DE CONTENIDO (barra lateral) ==== */
+.tocify {
+  background-color: rgba(240, 248, 255, 0.9);
+  border-radius: 15px;
+  padding: 15px;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+  font-size: 15px;
+}
+.tocify-header, .tocify-item {
+  color: #1A73E8 !important;
+}
+.tocify-item.active {
+  font-weight: bold;
+  background-color: rgba(26,115,232,0.15);
+  border-radius: 10px;
+}
+
+/* ==== ENLACES ==== */
+a {
+  color: #1A73E8;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* ==== PIE DE PÁGINA (opcional) ==== */
+footer {
+  text-align: center;
+  font-size: 14px;
+  color: #444;
+  margin-top: 40px;
+}

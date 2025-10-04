@@ -1,0 +1,69 @@
+---
+title: "Cuestionario: Percepción y uso de asistentes de IA en actividades académicas"
+author: "Fernando Contreras Artavia"
+date: "2025-10-04"
+output:
+  html_document:
+    theme: yeti
+    toc: true
+    toc_float: true
+    css: estilo.css
+---
+
+# Introducción
+
+### Propósito del cuestionario
+El presente cuestionario tiene como propósito conocer la **percepción, confianza e intención de uso de los asistentes de Inteligencia Artificial (IA)** en actividades académicas de los estudiantes universitarios. 
+
+### Importancia del estudio
+El uso de herramientas de IA en la educación está transformando la forma en que los estudiantes investigan, escriben y resuelven problemas. Este estudio busca comprender cómo se están adoptando estas tecnologías, su nivel de aceptación y las actitudes generales hacia su implementación en el ámbito académico.
+
+### Instrucciones generales para los participantes
+A continuación se presentan las indicaciones para completar el cuestionario:
+
+- Tiempo estimado de respuesta: **4 a 6 minutos**.  
+- Lea cuidadosamente cada pregunta antes de responder.  
+- En preguntas con opciones múltiples, seleccione la alternativa que mejor represente su opinión.  
+- En preguntas abiertas, escriba su respuesta de forma breve y clara.  
+- Algunas preguntas aplican únicamente a ciertas personas según sus respuestas anteriores (preguntas filtro).  
+- Su participación es completamente **voluntaria y anónima**.
+
+### Confidencialidad y uso de los datos
+Los datos recolectados en este cuestionario son **anónimos y confidenciales**.  
+No se solicitará información personal que permita identificar a los participantes.  
+Las respuestas serán utilizadas únicamente con fines **académicos y de investigación** dentro del curso *Introducción a la Estadística - III Cuatrimestre 2025*.
+
+---
+
+# Población meta
+
+### Características demográficas
+La población meta son **estudiantes activos del Colegio Universitario de Cartago (CUC)** durante el III Cuatrimestre de 2025.
+
+### Criterios de inclusión
+- Estudiantes matriculados en el III Cuatrimestre 2025.  
+- Personas que utilizan herramientas digitales o están familiarizadas con entornos virtuales.  
+
+### Criterios de exclusión
+- Estudiantes que no tengan conocimiento básico sobre el uso de Inteligencia Artificial.  
+- Personas que no deseen participar de forma voluntaria.
+
+### Tamaño estimado de la población
+Se estima una población aproximada de **500 estudiantes activos** en las distintas carreras del CUC durante el III Cuatrimestre 2025.
+
+---
+
+# Objetivo general
+Conocer la **percepción, confianza e intención de uso** de los asistentes de Inteligencia Artificial en las actividades académicas de los estudiantes universitarios.
+
+---
+
+# Enlace al cuestionario
+Puedes acceder al formulario completo en Microsoft Forms en el siguiente enlace:  
+[Haz clic aquí para responder el cuestionario en línea](https://forms.office.com/r/MBh2SCem7w)
+
+---
+
+# Nota 
+Este cuestionario forma parte de una asignación práctica para la asignatura **Introducción a la Estadística**, con el fin de aplicar conceptos de diseño de instrumentos de recolección de datos mediante herramientas digitales.
+
